@@ -1,4 +1,4 @@
-printf group task
+printf group project
 
 0x11. C - printf ALX team project
 Team: uniquesamjohn and DanielNath                                                                   
